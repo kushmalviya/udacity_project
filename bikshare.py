@@ -353,3 +353,4 @@ if __name__ == "__main__":
     main()
 print ('thanks for using this')
 print('have a nice day')
+print ('take care')
