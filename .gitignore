@@ -1,1 +1,3 @@
-.github/**
+file_to_ignore1.txt
+*.csv
+/folder_to_ignore
